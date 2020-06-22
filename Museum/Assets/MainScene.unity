@@ -189,7 +189,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 88868233}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 6.46, y: 8.34, z: 32.61}
+  m_LocalPosition: {x: 6.46, y: 8, z: 32.72}
   m_LocalScale: {x: 10.16245, y: 0.69131595, z: 17.754728}
   m_Children: []
   m_Father: {fileID: 1743870828}
@@ -299,8 +299,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e47c4586d6a8774fb455317f0e4b1b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Info: "\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u043A\u0430\u0440\u0442\u0438\u043D\u044B\\n\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435
-    \u043E\u043F\u0438\u0441\u0430\u043D\u0438\u0435"
+  Info: Irina Riabinova \n Irina Riabinova
 --- !u!64 &121242526
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -406,8 +405,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e47c4586d6a8774fb455317f0e4b1b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Info: "\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u043A\u0430\u0440\u0442\u0438\u043D\u044B\\n\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435
-    \u043E\u043F\u0438\u0441\u0430\u043D\u0438\u0435"
+  Info: Francesco Trimarchi \n Francesco Trimarchi
 --- !u!64 &169483922
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -513,8 +511,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e47c4586d6a8774fb455317f0e4b1b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Info: "\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u043A\u0430\u0440\u0442\u0438\u043D\u044B\\n\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435
-    \u043E\u043F\u0438\u0441\u0430\u043D\u0438\u0435"
+  Info: Konstantin Riabinov \n Konstantin Riabinov
 --- !u!64 &267847846
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -620,8 +617,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e47c4586d6a8774fb455317f0e4b1b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Info: "\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u043A\u0430\u0440\u0442\u0438\u043D\u044B\\n\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435
-    \u043E\u043F\u0438\u0441\u0430\u043D\u0438\u0435"
+  Info: Claudio Cavalieri \n Claudio Cavalieri
 --- !u!64 &348750933
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -727,8 +723,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e47c4586d6a8774fb455317f0e4b1b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Info: "\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u043A\u0430\u0440\u0442\u0438\u043D\u044B\\n\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435
-    \u043E\u043F\u0438\u0441\u0430\u043D\u0438\u0435"
+  Info: Konstantin Riabinov \n Ivan Streltsov
 --- !u!64 &353804710
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -834,8 +829,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e47c4586d6a8774fb455317f0e4b1b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Info: "\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u043A\u0430\u0440\u0442\u0438\u043D\u044B\\n\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435
-    \u043E\u043F\u0438\u0441\u0430\u043D\u0438\u0435"
+  Info: Arthur Molev \n Arthur Molev
 --- !u!64 &390191324
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1123,8 +1117,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e47c4586d6a8774fb455317f0e4b1b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Info: "\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u043A\u0430\u0440\u0442\u0438\u043D\u044B\\n\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435
-    \u043E\u043F\u0438\u0441\u0430\u043D\u0438\u0435"
+  Info: 'Luigi  Franco Maizia '
 --- !u!64 &462505709
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1230,8 +1223,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e47c4586d6a8774fb455317f0e4b1b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Info: "\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u043A\u0430\u0440\u0442\u0438\u043D\u044B\\n\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435
-    \u043E\u043F\u0438\u0441\u0430\u043D\u0438\u0435"
+  Info: L'essere il suo dualismo geometrico
 --- !u!64 &489473433
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1337,8 +1329,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e47c4586d6a8774fb455317f0e4b1b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Info: "\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u043A\u0430\u0440\u0442\u0438\u043D\u044B\\n\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435
-    \u043E\u043F\u0438\u0441\u0430\u043D\u0438\u0435"
+  Info: 'La falsa armonia della segmentazione '
 --- !u!64 &594012155
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1634,8 +1625,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e47c4586d6a8774fb455317f0e4b1b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Info: "\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u043A\u0430\u0440\u0442\u0438\u043D\u044B\\n\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435
-    \u043E\u043F\u0438\u0441\u0430\u043D\u0438\u0435"
+  Info: Arvedas  Kasauskas \n Arvedas  Kasauskas
 --- !u!64 &709550726
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2105,8 +2095,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e47c4586d6a8774fb455317f0e4b1b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Info: "\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u043A\u0430\u0440\u0442\u0438\u043D\u044B\\n\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435
-    \u043E\u043F\u0438\u0441\u0430\u043D\u0438\u0435"
+  Info: Francesco Trimarchi \n Francesco Trimarchi
 --- !u!64 &890693853
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2212,8 +2201,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e47c4586d6a8774fb455317f0e4b1b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Info: "\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u043A\u0430\u0440\u0442\u0438\u043D\u044B\\n\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435
-    \u043E\u043F\u0438\u0441\u0430\u043D\u0438\u0435"
+  Info: Irina Riabinova \n Irina Riabinova
 --- !u!64 &900620183
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2501,8 +2489,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e47c4586d6a8774fb455317f0e4b1b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Info: "\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u043A\u0430\u0440\u0442\u0438\u043D\u044B\\n\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435
-    \u043E\u043F\u0438\u0441\u0430\u043D\u0438\u0435"
+  Info: 'Luigi  Franco Maizia '
 --- !u!64 &988511398
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3015,8 +3002,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e47c4586d6a8774fb455317f0e4b1b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Info: "\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u043A\u0430\u0440\u0442\u0438\u043D\u044B\\n\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435
-    \u043E\u043F\u0438\u0441\u0430\u043D\u0438\u0435"
+  Info: Claudio Cavalieri \n Claudio Cavalieri
 --- !u!64 &1104715688
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3122,8 +3108,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e47c4586d6a8774fb455317f0e4b1b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Info: "\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u043A\u0430\u0440\u0442\u0438\u043D\u044B\\n\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435
-    \u043E\u043F\u0438\u0441\u0430\u043D\u0438\u0435"
+  Info: Ana Maria Reque \n Ana Maria Reque
 --- !u!64 &1110120665
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3295,8 +3280,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e47c4586d6a8774fb455317f0e4b1b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Info: "\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u043A\u0430\u0440\u0442\u0438\u043D\u044B\\n\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435
-    \u043E\u043F\u0438\u0441\u0430\u043D\u0438\u0435"
+  Info: Valentin Samarin \n Valentin Samarin
 --- !u!64 &1131957719
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3475,8 +3459,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e47c4586d6a8774fb455317f0e4b1b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Info: "\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u043A\u0430\u0440\u0442\u0438\u043D\u044B\\n\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435
-    \u043E\u043F\u0438\u0441\u0430\u043D\u0438\u0435"
+  Info: Yury Voronina \n Yury Voronina
 --- !u!64 &1190829022
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3582,8 +3565,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e47c4586d6a8774fb455317f0e4b1b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Info: "\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u043A\u0430\u0440\u0442\u0438\u043D\u044B\\n\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435
-    \u043E\u043F\u0438\u0441\u0430\u043D\u0438\u0435"
+  Info: Arthur Molev \n Arthur Molev
 --- !u!64 &1198492300
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -4435,8 +4417,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e47c4586d6a8774fb455317f0e4b1b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Info: "\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u043A\u0430\u0440\u0442\u0438\u043D\u044B\\n\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435
-    \u043E\u043F\u0438\u0441\u0430\u043D\u0438\u0435"
+  Info: Autoanalisi \n Autoanalisi
 --- !u!64 &1714818742
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -4545,6 +4526,7 @@ Transform:
   - {fileID: 955568141}
   - {fileID: 88868234}
   - {fileID: 1911982569}
+  - {fileID: 1942139969}
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -4594,8 +4576,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e47c4586d6a8774fb455317f0e4b1b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Info: "\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u043A\u0430\u0440\u0442\u0438\u043D\u044B\\n\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435
-    \u043E\u043F\u0438\u0441\u0430\u043D\u0438\u0435"
+  Info: Arvedas  Kasauskas \n Arvedas  Kasauskas
 --- !u!64 &1845157756
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -4915,8 +4896,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1911982568}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 6.74, y: 11.04, z: 23.97}
-  m_LocalScale: {x: 4.164851, y: 5.4954925, z: 0.4703395}
+  m_LocalPosition: {x: 6.74, y: 10.808, z: 23.97}
+  m_LocalScale: {x: 4.164851, y: 6.1813297, z: 0.4703395}
   m_Children: []
   m_Father: {fileID: 1743870828}
   m_RootOrder: 21
@@ -4978,6 +4959,97 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1911982568}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1942139968
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1942139969}
+  - component: {fileID: 1942139972}
+  - component: {fileID: 1942139971}
+  - component: {fileID: 1942139970}
+  m_Layer: 0
+  m_Name: Cube (30)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1942139969
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1942139968}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 7.15, y: 13.63, z: 20.01}
+  m_LocalScale: {x: 58.15698, y: 0.69131595, z: 34.41802}
+  m_Children: []
+  m_Father: {fileID: 1743870828}
+  m_RootOrder: 22
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1942139970
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1942139968}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!23 &1942139971
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1942139968}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!33 &1942139972
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1942139968}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!1 &2019963073
 GameObject:
@@ -5198,8 +5270,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e47c4586d6a8774fb455317f0e4b1b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Info: "\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u043A\u0430\u0440\u0442\u0438\u043D\u044B\\n\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435
-    \u043E\u043F\u0438\u0441\u0430\u043D\u0438\u0435"
+  Info: Yury Voronina \n Yury Voronina
 --- !u!64 &2109091060
 MeshCollider:
   m_ObjectHideFlags: 0
