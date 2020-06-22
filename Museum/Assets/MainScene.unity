@@ -175,7 +175,7 @@ GameObject:
   - component: {fileID: 88868236}
   - component: {fileID: 88868235}
   m_Layer: 0
-  m_Name: Cube (28)
+  m_Name: roof small
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1572,7 +1572,7 @@ RectTransform:
   m_Children:
   - {fileID: 15111310}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -1971,7 +1971,7 @@ GameObject:
   - component: {fileID: 890468161}
   - component: {fileID: 890468160}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: floor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3232,7 +3232,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1131957716
 GameObject:
@@ -4278,7 +4278,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1673858453
 GameObject:
@@ -4526,9 +4526,8 @@ Transform:
   - {fileID: 955568141}
   - {fileID: 88868234}
   - {fileID: 1911982569}
-  - {fileID: 1942139969}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1845157753
 GameObject:
@@ -4867,7 +4866,7 @@ Transform:
   - {fileID: 2109091058}
   - {fileID: 1190829020}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1911982568
 GameObject:
@@ -4973,7 +4972,7 @@ GameObject:
   - component: {fileID: 1942139971}
   - component: {fileID: 1942139970}
   m_Layer: 0
-  m_Name: Cube (30)
+  m_Name: roof
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4987,11 +4986,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1942139968}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 7.15, y: 13.63, z: 20.01}
+  m_LocalPosition: {x: -8.556213, y: 10.590329, z: 21.103493}
   m_LocalScale: {x: 58.15698, y: 0.69131595, z: 34.41802}
   m_Children: []
-  m_Father: {fileID: 1743870828}
-  m_RootOrder: 22
+  m_Father: {fileID: 0}
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!65 &1942139970
 BoxCollider:
