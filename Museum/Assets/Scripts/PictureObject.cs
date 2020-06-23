@@ -13,6 +13,7 @@ public class PictureObject : MonoBehaviour
 
     void Awake()
     {
+        Info = Info.Replace("\\n", "\n");
         float maxWidth = 1024;
         var render = GetComponent<MeshRenderer>();
         var txt = render.material.mainTexture;
