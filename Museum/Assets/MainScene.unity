@@ -299,7 +299,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e47c4586d6a8774fb455317f0e4b1b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Info: Irina Riabinova Madam in kimono Oil.canves 2020
+  Info: Irina Riabinova\n Madam in kimono \nOil.canves 2020
 --- !u!64 &121242526
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -405,7 +405,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e47c4586d6a8774fb455317f0e4b1b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Info: Francesco Trimarchi Una Donna Acril 2020
+  Info: Francesco Trimarchi\n Una Donna Acril\n 2020
 --- !u!64 &169483922
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -511,7 +511,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e47c4586d6a8774fb455317f0e4b1b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Info: Konstantin Riabinov Sunrise Acril 2010
+  Info: Konstantin Riabinov \nSunrise \nAcril 2010
 --- !u!64 &267847846
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -723,7 +723,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e47c4586d6a8774fb455317f0e4b1b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Info: Konstantin Riabinov, Ivan Streltsov Still life with scalpel Acril 2019
+  Info: Konstantin Riabinov, Ivan Streltsov \nStill life with scalpel\n Acril 2019
 --- !u!64 &353804710
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -829,7 +829,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e47c4586d6a8774fb455317f0e4b1b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Info: Arthur Molev Sankt-Petersburg  Oil.canves 2020
+  Info: Arthur Molev \nSankt-Petersburg  \nOil.canves 2020
 --- !u!64 &390191324
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1117,7 +1117,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e47c4586d6a8774fb455317f0e4b1b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Info: 'Luigi  Franco Maizia '
+  Info: 'Luigi Franco Maizia '
 --- !u!64 &462505709
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1223,8 +1223,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e47c4586d6a8774fb455317f0e4b1b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Info: L'artista Guilherme Liduino. Being its geometric dualism. 3 March 2019. Oil
-    pastel on kraft paper.
+  Info: L'artista Guilherme Liduino\n Being its geometric dualism\n 3 March 2019\n
+    Oil pastel on kraft paper
 --- !u!64 &489473433
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1376,8 +1376,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e47c4586d6a8774fb455317f0e4b1b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Info: L'artista Guilherme Liduino. The false harmony of segmentation. 16 November
-    2019. Oil pastel on kraft paper.
+  Info: L'artista Guilherme Liduino\n The false harmony of segmentation\n 16 November
+    2019\n Oil pastel on kraft paper
 --- !u!64 &594012155
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2143,7 +2143,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e47c4586d6a8774fb455317f0e4b1b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Info: Francesco Trimarchi Amore Acril 2020
+  Info: Francesco Trimarchi \nAmore Acril \n2020
 --- !u!64 &890693853
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2249,7 +2249,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e47c4586d6a8774fb455317f0e4b1b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Info: Irina Riabinova   He and She   Oil.canves   2019
+  Info: Irina Riabinova \n He and She \n Oil.canves 2019
 --- !u!64 &900620183
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2537,7 +2537,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e47c4586d6a8774fb455317f0e4b1b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Info: 'Luigi  Franco Maizia '
+  Info: 'Luigi Franco Maizia '
 --- !u!64 &988511398
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3328,7 +3328,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e47c4586d6a8774fb455317f0e4b1b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Info: Valentin Samarin   Four witches from the ballet Faust two.   Paris 1989
+  Info: Valentin Samarin \nFour witches from the ballet Faust two\n Paris 1989
 --- !u!64 &1131957719
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3507,7 +3507,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e47c4586d6a8774fb455317f0e4b1b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Info: Yury Voronina Flow Oil.canves 2014
+  Info: Yury Voronina\n Flow \nOil.canves 2014
 --- !u!64 &1190829022
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3613,7 +3613,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e47c4586d6a8774fb455317f0e4b1b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Info: Arthur Molev Karpovka Oil.canves 2008
+  Info: Arthur Molev\n Karpovka \n Oil.canves 2008
 --- !u!64 &1198492300
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -4564,8 +4564,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e47c4586d6a8774fb455317f0e4b1b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Info: L'artista Guilherme Liduino. Self-analysis. 19 February 2020. Oil pastel on
-    kraft paper.
+  Info: L'artista Guilherme Liduino\n Self-analysis\n 19 February 2020\n Oil pastel
+    on kraft paper
 --- !u!64 &1714818742
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -5448,7 +5448,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e47c4586d6a8774fb455317f0e4b1b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Info: Yury Voronina Images  Grafica 1990
+  Info: Yury Voronina\n Images Grafica \n1990
 --- !u!64 &2109091060
 MeshCollider:
   m_ObjectHideFlags: 0
