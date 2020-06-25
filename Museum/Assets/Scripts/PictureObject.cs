@@ -5,20 +5,22 @@ using UnityEngine;
 public class PictureObject : MonoBehaviour
 {
 
-//    public Texture Texture;
+    public Texture Texture;
 //    public Shader Shader;
 
     public string Info = "Desc";
     private const float coef = 0.5f;
+
 
     void Awake()
     {
         Info = Info.Replace("\\n", "\n");
         float maxWidth = 1024;
         var render = GetComponent<MeshRenderer>();
-        var txt = render.material.mainTexture;
+        Texture = render.material.mainTexture;
         var ls = transform.localScale;
-        var p = (float)txt.height / (float)txt.width;
+        var p = (float)Texture.height / (float)Texture.width;
+
 //        Debug.Log($"{txt.width}   {txt.height}");
 //        if (txt.width > txt.height)
 //        {
