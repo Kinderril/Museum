@@ -304,7 +304,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Texture: {fileID: 0}
-  Info: Irina Riabinova\n Madam in kimono \nOil.canves 2020
+  Info: Irina Riabinova\n Madam in kimono \nOil.canves \n2020
 --- !u!64 &121242526
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -518,7 +518,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Texture: {fileID: 0}
-  Info: Konstantin Riabinov \nSunrise \nAcril 2010
+  Info: Konstantin Riabinov \nSunrise \nAcril \n2010
 --- !u!64 &267847846
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -625,7 +625,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Texture: {fileID: 0}
-  Info: Claudio Cavalieri \n Claudio Cavalieri
+  Info: Claudio Cavalieri \n Distrant \n 2020
 --- !u!64 &348750933
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -732,7 +732,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Texture: {fileID: 0}
-  Info: Konstantin Riabinov, Ivan Streltsov \nStill life with scalpel\n Acril 2019
+  Info: Konstantin Riabinov, Ivan Streltsov \nStill life with scalpel\n Acril \n2019
 --- !u!64 &353804710
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -839,7 +839,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Texture: {fileID: 0}
-  Info: Arthur Molev \nSankt-Petersburg  \nOil.canves 2020
+  Info: Arthur Molev \nSankt-Petersburg  \nOil.canves \n2020
 --- !u!64 &390191324
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1128,7 +1128,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Texture: {fileID: 0}
-  Info: 'Luigi Franco Maizia '
+  Info: Luigi Franco Maizia \n Country side \n 2020
 --- !u!64 &462505709
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1235,8 +1235,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Texture: {fileID: 0}
-  Info: L'artista Guilherme Liduino\n Being its geometric dualism\n 3 March 2019\n
-    Oil pastel on kraft paper
+  Info: L'artista Guilherme Liduino\n Being its geometric dualism\n Oil pastel on
+    kraft paper \n2019
 --- !u!64 &489473433
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1480,8 +1480,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Texture: {fileID: 0}
-  Info: L'artista Guilherme Liduino\n The false harmony of segmentation\n 16 November
-    2019\n Oil pastel on kraft paper
+  Info: L'artista Guilherme Liduino\n The false harmony of segmentation \n Oil pastel
+    on kraft paper \n2019
 --- !u!64 &594012155
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1778,7 +1778,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Texture: {fileID: 0}
-  Info: Arvedas  Kasauskas \n Arvedas  Kasauskas
+  Info: Arvedas  Kasauskas \n Urban Landscape \n 2015
 --- !u!64 &709550726
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2678,7 +2678,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Texture: {fileID: 0}
-  Info: Irina Riabinova \n He and She \n Oil.canves 2019
+  Info: Irina Riabinova \n He and She \n Oil.canves \n2019
 --- !u!64 &900620183
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3058,7 +3058,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Texture: {fileID: 0}
-  Info: 'Luigi Franco Maizia '
+  Info: Luigi Franco Maizia \n Deterioration \n 2020
 --- !u!64 &988511398
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3769,7 +3769,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Texture: {fileID: 0}
-  Info: Claudio Cavalieri \n Claudio Cavalieri
+  Info: Claudio Cavalieri \n Deep \n 2020
 --- !u!64 &1104715688
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3876,7 +3876,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Texture: {fileID: 0}
-  Info: Ana Maria Reque \n Ana Maria Reque
+  Info: Ana Maria Reque
 --- !u!64 &1110120665
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -4119,7 +4119,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Texture: {fileID: 0}
-  Info: Valentin Samarin \nFour witches from the ballet Faust two\n Paris 1989
+  Info: Valentin Samarin \nFour witches from the ballet Faust two\n 1989
 --- !u!64 &1131957719
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -4299,7 +4299,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Texture: {fileID: 0}
-  Info: Yury Voronina\n Flow \nOil.canves 2014
+  Info: Yury Voronina\n Flow \nOil.canves \n2014
 --- !u!64 &1190829022
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -4406,7 +4406,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Texture: {fileID: 0}
-  Info: Arthur Molev\n Karpovka \n Oil.canves 2008
+  Info: Arthur Molev \n Karpovka\n Oil.canves \n2008
 --- !u!64 &1198492300
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -5267,8 +5267,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Texture: {fileID: 0}
-  Info: L'artista Guilherme Liduino\n Self-analysis\n 19 February 2020\n Oil pastel
-    on kraft paper
+  Info: L'artista Guilherme Liduino\n Self-analysis\n Oil pastel on kraft paper\n
+    2020
 --- !u!64 &1714818742
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -5429,7 +5429,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Texture: {fileID: 0}
-  Info: Arvedas  Kasauskas \n Arvedas  Kasauskas
+  Info: Arvedas  Kasauskas \n Urban Landscape \n 2015
 --- !u!64 &1845157756
 MeshCollider:
   m_ObjectHideFlags: 0
