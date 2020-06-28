@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class WindowHall : MonoBehaviour
 {
     public TextMeshProUGUI TextField;
-    public TextMeshProUGUI ContainerField;
+//    public TextMeshProUGUI ContainerField;
     public RawImage Img;
     public GameObject Container;
     private float _setTime;
@@ -32,7 +32,7 @@ public class WindowHall : MonoBehaviour
     public void SetNull()
     {
         var delta = Time.time - _setTime;
-        if (delta > 1f)
+        if (delta > 1f && !_isBigOpen)
         {
 
 
@@ -73,7 +73,7 @@ public class WindowHall : MonoBehaviour
             return;
         }
 
-        ContainerField.text = pictureObject.Info;
+//        ContainerField.text = pictureObject.Info;
         _isBigOpen = true;
         Container.gameObject.SetActive(_isBigOpen);
         Img.texture = pictureObject.Texture;
